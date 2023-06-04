@@ -1,0 +1,2 @@
+# MaterialDesignBgGenerator
+MaterialDesignBgGenerator Adobe Illustrator Script
